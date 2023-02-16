@@ -1,0 +1,28 @@
+form{
+  padding: 100px;
+  margin: 122px;
+  text-align: center;
+  background: lightslategray;
+  margin: 100px;
+  font-family: Peddana;
+  font-size: larger;
+  margin-bottom: 10000px;
+  width: 80%;
+  height: 40%;
+  font-size: 50px;
+  border: double;
+
+}
+img{
+  text-align: -moz-center;
+  width: 1000px;
+  height: 200px;
+  justify-content: center;
+  display: flex;
+  align-content: center;
+  background: #0088ff;
+
+}
+inout{
+  margin: 50px;
+}
